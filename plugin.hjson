@@ -1,0 +1,6 @@
+name: "ProtoVars",
+author: "[white]Xusk",
+description: "NOVA gamemode.",
+version: 0.1
+main: "ProtoVars.Main",
+
