@@ -1,0 +1,2 @@
+# ProtoVars
+Mindustry Gamemode
